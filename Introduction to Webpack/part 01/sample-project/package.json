@@ -13,6 +13,7 @@
   "author": "ahmed hamdy",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^1.13.0"
+    "webpack": "^1.13.0",
+    "webpack-dev-server": "^1.14.1"
   }
 }
