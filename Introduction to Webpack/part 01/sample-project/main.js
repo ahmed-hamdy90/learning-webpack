@@ -1,5 +1,5 @@
 "use strict";
 
-var sayHello = require('./say-hello');
+const sayHello = require('./say-hello');
 
 sayHello('Guybrush', document.querySelector('h2'));
