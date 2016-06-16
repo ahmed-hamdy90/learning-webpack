@@ -7,7 +7,7 @@ module.exports = {
   },
   module: {
     // array contains loaders which will used in build operations
-    loader : [
+    loaders : [
       {
         // regular expression for applying babel loader
         // only on all js files(which have js extension)
