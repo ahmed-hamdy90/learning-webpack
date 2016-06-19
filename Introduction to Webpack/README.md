@@ -1,9 +1,9 @@
-<!-- Following [Tutsplus: Introduction to Webpack](http://code.tutsplus.com/series/introduction-to-webpack--cms-983) Series which consisting of two parts, -->
+Following [Tutsplus: Introduction to Webpack](http://code.tutsplus.com/series/introduction-to-webpack--cms-983) Series which consisting of two parts,
 [part 01](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001) refer to [first part](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791) in series and [part 02](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2002) refer to [second part](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-2--cms-25911) in series.
 
 [First part](http://code.tutsplus.com/tutorials/introduction-to-webpack-part-1--cms-25791) in series contains four main sections:
  - [Installation section](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001/installation/sample-project)
- - [Configuration section](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001/installation/sample-project)
+ - [Configuration section](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001/configuration/sample-project)
  - [Development server section](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001/development-server/sample-project)
  - [Loaders section](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001/loaders/sample-project)
 
@@ -21,4 +21,4 @@ To Run this project must the next three command lines first:
   - ```npm install``` to install npm modules for the project.
   - ```./node_modules/.bin/webpack``` to run webpack  build operation.
 
-**Notice:** you can Run `webpack development server` by next command line ```./node_modules/.bin/webpack-dev-server``` [Exists into all sections except first two sections: installation section and configuration section] Or just open ```index.html``` page using your browse.
+**Notice:** you can Run `webpack development server` by next command line ```./node_modules/.bin/webpack-dev-server``` \[Exists into all sections except first two sections: [installation section](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001/installation/sample-project) and [configuration section](https://github.com/ahmed-hamdy90/learning-webpack/tree/master/Introduction%20to%20Webpack/part%2001/configuration/sample-project)\] Or just open ```index.html``` page using your browse.
